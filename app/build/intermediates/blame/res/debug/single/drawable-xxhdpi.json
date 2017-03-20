@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\acadgild_work\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_document.png",
+        "source": "E:\\acadgild_work\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\src\\main\\res\\drawable-xxhdpi\\ic_document.png"
+    },
+    {
+        "merged": "E:\\acadgild_work\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_delete.png",
+        "source": "E:\\acadgild_work\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\acadgild_work\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_add.png",
+        "source": "E:\\acadgild_work\\Ex_Files_NoteTaking_Android\\Exercise Files\\06_Finalize\\PlainOlNotes\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    }
+]
